@@ -1,0 +1,114 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "06a-5Q-cs5"; */
+"06a-5Q-cs5.normalTitle" = "ボタン";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "15Y-ws-Zt2"; */
+"15Y-ws-Zt2.normalTitle" = "ボタン";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1Jz-hL-rUs"; */
+"1Jz-hL-rUs.normalTitle" = "ボタン";
+
+/* Class = "UILabel"; text = "Hạt Bay Lượn Kết Tinh"; ObjectID = "2Q7-O8-QM8"; */
+"2Q7-O8-QM8.text" = "フライムの晶化核";
+
+/* Class = "UILabel"; text = "Character Archive"; ObjectID = "8Jw-GY-IdX"; */
+"8Jw-GY-IdX.text" = "キャラクターアーカイブ";
+
+/* Class = "UILabel"; text = "Archive"; ObjectID = "DD6-Tg-Vo3"; */
+"DD6-Tg-Vo3.text" = "アーカイブ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Fx2-Rq-ruf"; */
+"Fx2-Rq-ruf.normalTitle" = "ボタン";
+
+/* Class = "UILabel"; text = "UID: 830656600"; ObjectID = "GPg-gV-cOo"; */
+"GPg-gV-cOo.text" = "UID: 830656600";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Hhm-yg-9oH"; */
+"Hhm-yg-9oH.normalTitle" = "ボタン";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HsO-xW-L9D"; */
+"HsO-xW-L9D.normalTitle" = "ボタン";
+
+/* Class = "UILabel"; text = "Linh Kiện Dây Cót - Coppelia"; ObjectID = "JuV-18-5LN"; */
+"JuV-18-5LN.text" = "奇械部品・コッペリア";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Kot-2F-0Og"; */
+"Kot-2F-0Og.title" = "アイテム";
+
+/* Class = "UILabel"; text = "Events"; ObjectID = "MKP-9c-Zeg"; */
+"MKP-9c-Zeg.text" = "イベント";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NEJ-QU-FXu"; */
+"NEJ-QU-FXu.normalTitle" = "ボタン";
+
+/* Class = "UILabel"; text = "Party Setup"; ObjectID = "Nwp-fM-qc7"; */
+"Nwp-fM-qc7.text" = "パーティーのセットアップ";
+
+/* Class = "UILabel"; text = "Uraku Misugiri"; ObjectID = "OMR-EZ-y6A"; */
+"OMR-EZ-y6A.text" = "有楽御簾切";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TuK-xs-diA"; */
+"TuK-xs-diA.normalTitle" = "ボタン";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WbJ-IR-zIE"; */
+"WbJ-IR-zIE.normalTitle" = "ボタン";
+
+/* Class = "UINavigationItem"; title = "List Characters"; ObjectID = "Wld-oG-irR"; */
+"Wld-oG-irR.title" = "キャラクターの一覧";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YtF-nM-ESF"; */
+"YtF-nM-ESF.normalTitle" = "ボタン";
+
+/* Class = "UILabel"; text = "Friends"; ObjectID = "arx-3I-c9I"; */
+"arx-3I-c9I.text" = "友達";
+
+/* Class = "UILabel"; text = "Map"; ObjectID = "bCe-Tg-lfh"; */
+"bCe-Tg-lfh.text" = "地図";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dOz-0p-TNj"; */
+"dOz-0p-TNj.normalTitle" = "ボタン";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "e94-sE-RfO"; */
+"e94-sE-RfO.normalTitle" = "ボタン";
+
+/* Class = "UILabel"; text = "Chiori"; ObjectID = "fhm-h1-0BT"; */
+"fhm-h1-0BT.text" = "千織";
+
+/* Class = "UILabel"; text = "Wish"; ObjectID = "ha2-rS-DcG"; */
+"ha2-rS-DcG.text" = "Wish";
+
+/* Class = "UILabel"; text = "List Characters"; ObjectID = "iRo-xe-qbl"; */
+"iRo-xe-qbl.text" = "キャラクターの一覧";
+
+/* Class = "UILabel"; text = "Hoa Lan Máu"; ObjectID = "kQB-ZM-Dxq"; */
+"kQB-ZM-Dxq.text" = "血石華";
+
+/* Class = "UILabel"; text = "Inventory"; ObjectID = "kT9-TU-Ywf"; */
+"kT9-TU-Ywf.text" = "在庫";
+
+/* Class = "UILabel"; text = "Achievements"; ObjectID = "syd-tW-0T4"; */
+"syd-tW-0T4.text" = "成果";
+
+/* Class = "UILabel"; text = "Lomahs1401"; ObjectID = "tlE-bq-Trl"; */
+"tlE-bq-Trl.text" = "Lomahs1401";
+
+/* Class = "UILabel"; text = "Shop"; ObjectID = "tyd-6C-aG4"; */
+"tyd-6C-aG4.text" = "ショップ";
+
+/* Class = "UILabel"; text = "Quests"; ObjectID = "v2b-29-PMh"; */
+"v2b-29-PMh.text" = "クエスト";
+
+/* Class = "UILabel"; text = "Nhà Thiết Kế Sấm Chớp・Chiori"; ObjectID = "vdd-hL-j0R"; */
+"vdd-hL-j0R.text" = "雷鳴の裁錦師・千織";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "w8I-wH-Uwf"; */
+"w8I-wH-Uwf.normalTitle" = "ボタン";
+
+/* Class = "UILabel"; text = "Thông tin liên quan gồm"; ObjectID = "xJK-Eh-G4S"; */
+"xJK-Eh-G4S.text" = "関連しているワード";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xP0-hg-YNd"; */
+"xP0-hg-YNd.normalTitle" = "ボタン";
+
+/* Class = "UILabel"; text = "Character"; ObjectID = "yVa-1U-wHJ"; */
+"yVa-1U-wHJ.text" = "キャラクター";

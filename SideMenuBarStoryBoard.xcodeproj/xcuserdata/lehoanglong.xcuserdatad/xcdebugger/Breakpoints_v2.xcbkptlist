@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C463D140-5BA3-4CAE-A2BC-3E97B150FCA4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6D80EC7-1825-477B-81B1-B030C31C06B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SideMenuBarStoryBoard/MenuSibeBarViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "MenuSibeBarViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C6D80EC7-1825-477B-81B1-B030C31C06B7 - bf28fbb2d0874aec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenuBarStoryBoard.MenuSibeBarViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SideMenuBarStoryBoard.MenuSibeBarViewController"
+                  moduleName = "SideMenuBarStoryBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lehoanglong/Documents/Code/Swift/SideMenuBarStoryBoard/SideMenuBarStoryBoard/MenuSibeBarViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "C6D80EC7-1825-477B-81B1-B030C31C06B7 - b55fcc741ce6eb0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenuBarStoryBoard.MenuSibeBarViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SideMenuBarStoryBoard.MenuSibeBarViewController"
+                  moduleName = "SideMenuBarStoryBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lehoanglong/Documents/Code/Swift/SideMenuBarStoryBoard/SideMenuBarStoryBoard/MenuSibeBarViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "C6D80EC7-1825-477B-81B1-B030C31C06B7 - 3038796acf0b344"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenuBarStoryBoard.MenuSibeBarViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SideMenuBarStoryBoard.MenuSibeBarViewController&gt;"
+                  moduleName = "SideMenuBarStoryBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lehoanglong/Documents/Code/Swift/SideMenuBarStoryBoard/SideMenuBarStoryBoard/MenuSibeBarViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "C6D80EC7-1825-477B-81B1-B030C31C06B7 - ac9e28b5bb5aabfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenuBarStoryBoard.MenuSibeBarViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SideMenuBarStoryBoard.MenuSibeBarViewController&gt;"
+                  moduleName = "SideMenuBarStoryBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lehoanglong/Documents/Code/Swift/SideMenuBarStoryBoard/SideMenuBarStoryBoard/MenuSibeBarViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "C6D80EC7-1825-477B-81B1-B030C31C06B7 - 8b5cf13e3dbaf51d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenuBarStoryBoard.MenuSibeBarViewController.__deallocating_deinit"
+                  moduleName = "SideMenuBarStoryBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lehoanglong/Documents/Code/Swift/SideMenuBarStoryBoard/SideMenuBarStoryBoard/MenuSibeBarViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5029E90B-C28A-4DC1-A6EA-45E94865883B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SideMenuBarStoryBoard/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "251"
+            endingLineNumber = "251"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA673A12-1D30-46C9-AD41-18A5FC59BB63"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SideMenuBarStoryBoard/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "createListCharacters()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FA673A12-1D30-46C9-AD41-18A5FC59BB63 - 2e30bb4ac86a75b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenuBarStoryBoard.ViewController.createListCharacters() -&gt; Swift.Array&lt;SideMenuBarStoryBoard.Character&gt;"
+                  moduleName = "SideMenuBarStoryBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lehoanglong/Documents/Code/Swift/SideMenuBarStoryBoard/SideMenuBarStoryBoard/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "808">
+               </Location>
+               <Location
+                  uuid = "FA673A12-1D30-46C9-AD41-18A5FC59BB63 - 2e30bb4ac86a719"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenuBarStoryBoard.ViewController.createListCharacters() -&gt; Swift.Array&lt;SideMenuBarStoryBoard.Character&gt;"
+                  moduleName = "SideMenuBarStoryBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lehoanglong/Documents/Code/Swift/SideMenuBarStoryBoard/SideMenuBarStoryBoard/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

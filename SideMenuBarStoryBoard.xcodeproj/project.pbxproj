@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E40BB2EA2BA3B1CE0065C381 /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = E40BB2E92BA3B1CE0065C381 /* Character.swift */; };
 		E4687C282BA32AA7008E7A18 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4687C272BA32AA7008E7A18 /* AppDelegate.swift */; };
 		E4687C2A2BA32AA7008E7A18 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4687C292BA32AA7008E7A18 /* SceneDelegate.swift */; };
 		E4687C2C2BA32AA7008E7A18 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4687C2B2BA32AA7008E7A18 /* ViewController.swift */; };
@@ -16,6 +17,9 @@
 		E4687C3F2BA32AAA008E7A18 /* SideMenuBarStoryBoardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4687C3E2BA32AAA008E7A18 /* SideMenuBarStoryBoardTests.swift */; };
 		E4687C492BA32AAA008E7A18 /* SideMenuBarStoryBoardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4687C482BA32AAA008E7A18 /* SideMenuBarStoryBoardUITests.swift */; };
 		E4687C4B2BA32AAA008E7A18 /* SideMenuBarStoryBoardUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4687C4A2BA32AAA008E7A18 /* SideMenuBarStoryBoardUITestsLaunchTests.swift */; };
+		E4687C582BA33886008E7A18 /* MenuSideBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4687C572BA33886008E7A18 /* MenuSideBarViewController.swift */; };
+		E47418422BA5EB7900EF21AA /* LocalizedExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E47418412BA5EB7900EF21AA /* LocalizedExtension.swift */; };
+		E4786EAB2BA3A694002F23B5 /* CharacterTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4786EA92BA3A694002F23B5 /* CharacterTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E40BB2E92BA3B1CE0065C381 /* Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
 		E4687C242BA32AA7008E7A18 /* SideMenuBarStoryBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SideMenuBarStoryBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4687C272BA32AA7008E7A18 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E4687C292BA32AA7008E7A18 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +54,10 @@
 		E4687C442BA32AAA008E7A18 /* SideMenuBarStoryBoardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SideMenuBarStoryBoardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4687C482BA32AAA008E7A18 /* SideMenuBarStoryBoardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuBarStoryBoardUITests.swift; sourceTree = "<group>"; };
 		E4687C4A2BA32AAA008E7A18 /* SideMenuBarStoryBoardUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuBarStoryBoardUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E4687C572BA33886008E7A18 /* MenuSideBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuSideBarViewController.swift; sourceTree = "<group>"; };
+		E47418412BA5EB7900EF21AA /* LocalizedExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizedExtension.swift; sourceTree = "<group>"; };
+		E47418432BA5EC3500EF21AA /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main.strings; sourceTree = "<group>"; };
+		E4786EA92BA3A694002F23B5 /* CharacterTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,10 +111,14 @@
 				E4687C272BA32AA7008E7A18 /* AppDelegate.swift */,
 				E4687C292BA32AA7008E7A18 /* SceneDelegate.swift */,
 				E4687C2B2BA32AA7008E7A18 /* ViewController.swift */,
+				E4687C572BA33886008E7A18 /* MenuSideBarViewController.swift */,
 				E4687C2D2BA32AA7008E7A18 /* Main.storyboard */,
+				E4786EA92BA3A694002F23B5 /* CharacterTableViewCell.swift */,
 				E4687C302BA32AA9008E7A18 /* Assets.xcassets */,
 				E4687C322BA32AA9008E7A18 /* LaunchScreen.storyboard */,
 				E4687C352BA32AA9008E7A18 /* Info.plist */,
+				E40BB2E92BA3B1CE0065C381 /* Character.swift */,
+				E47418412BA5EB7900EF21AA /* LocalizedExtension.swift */,
 			);
 			path = SideMenuBarStoryBoard;
 			sourceTree = "<group>";
@@ -213,6 +226,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ja,
 			);
 			mainGroup = E4687C1B2BA32AA7008E7A18;
 			productRefGroup = E4687C252BA32AA7008E7A18 /* Products */;
@@ -260,7 +274,11 @@
 			files = (
 				E4687C2C2BA32AA7008E7A18 /* ViewController.swift in Sources */,
 				E4687C282BA32AA7008E7A18 /* AppDelegate.swift in Sources */,
+				E4786EAB2BA3A694002F23B5 /* CharacterTableViewCell.swift in Sources */,
+				E40BB2EA2BA3B1CE0065C381 /* Character.swift in Sources */,
+				E4687C582BA33886008E7A18 /* MenuSideBarViewController.swift in Sources */,
 				E4687C2A2BA32AA7008E7A18 /* SceneDelegate.swift in Sources */,
+				E47418422BA5EB7900EF21AA /* LocalizedExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,6 +319,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				E4687C2E2BA32AA7008E7A18 /* Base */,
+				E47418432BA5EC3500EF21AA /* ja */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -321,6 +340,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -384,6 +404,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
